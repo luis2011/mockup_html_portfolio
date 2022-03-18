@@ -1,0 +1,37 @@
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    padding-top: 0px;
+  }
+
+
+.main_profile{
+    height: auto;
+    width: 98%;
+    margin: 10px auto;
+    border: 1px solid black;
+    padding: 5px 0 0 auto;
+    border-radius: 50px;
+    background-image: url(./assets/bg_image_main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -300px;
+}
+.main_profile_container{
+    padding-top: 500px;
+}
+.main_profile_data{
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+.main_profile__imgProfile{
+    border-radius: 100px;
+}
+.btn-profile{
+    border-radius: 10px;
+}
