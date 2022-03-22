@@ -230,8 +230,17 @@ p, span{
     flex-direction: row;
     margin-left: 50px;
 }
-
+.button_project{
+   width: 14%;
+}
 /*END SECTION PROJECT*/
+
+footer{
+    display: flex;
+    justify-content:center;
+    
+}
+
 
 /*Media Query section profile**************************************/
 @media (max-width: 1100px){
