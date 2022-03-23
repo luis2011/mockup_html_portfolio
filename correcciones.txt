@@ -1,0 +1,5 @@
+- El fondo que tiene código arriba de tu foto de perfil , lo haría mas fino (un heigth menor). listo
+- El fondo oscurecerlo o poner algo que no llame tanto la atención.
+- La imagen del edificio de la institución , no entiendo bien que utilidad tiene y mismo al tener toda la pagina mucho borde choca con la imagen muy recta.
+- Le bajaría un poco el border radius de los contenedores de las secciones para que no se choquen con el contenido
+- Dejaría mas espacio entre el contenido y los margenes (dejarle un poco mas de aire).

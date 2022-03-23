@@ -25,7 +25,7 @@ html {
     background-image: url(./assets/bg_image_main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-y: -270px;
+    background-position-y: -400px;
 }
 h1,h2,p ,span {
     font-family: 'Barlow', sans-serif;   
@@ -40,10 +40,10 @@ p, span{
     font-weight: 300;
 }
 .main_profile_container{
-    padding-top: 500px;
+    padding-top: 300px;
 }
 .main_profile_container_logo{
-    padding-top:650px;
+    padding-top:450px;
     margin-right: 20px;
     width: 600px;
     height: 300px;
