@@ -18,14 +18,14 @@ html {
     justify-content: space-between;
     height: auto;
     width: 98%;
-    margin: 20px auto;
+    margin: 10px auto;
     border: 1px solid black;
     padding: 5px 0 0 auto;
     border-radius: 25px;
     background-image: url(./assets/bg_image_main.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-y: -400px;
+    background-position-y: -300px;
 }
 h1,h2,p ,span {
     font-family: 'Barlow', sans-serif;   
